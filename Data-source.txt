@@ -1,0 +1,72 @@
+Data-source
+
+
+-------------------------
+Benchmark datasets.
+
+All datasets are cleaned by removing samples with missing values. Only two classes are used in the experiments if multiple classes exist in original data source.
+
+
+1. Pima 
+Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+2. AUScredit 
+Link: https://archive.ics.uci.edu/dataset/143/statlog+australian+credit+approval
+
+
+3. GCDcredit
+Link: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
+
+4. Liver
+Link: https://archive.ics.uci.edu/dataset/60/liver+disorders
+
+
+5. JAPcredit
+Link: https://archive.ics.uci.edu/dataset/28/japanese+credit
+
+6. Ecoli
+Link: https://archive.ics.uci.edu/dataset/39/ecoli
+
+
+7. Seeds
+Link: https://archive.ics.uci.edu/dataset/236/seeds
+
+
+8. Bloodtransfusion (Blood Transfusion Service Center)
+Link: https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center
+
+
+9. Balance (Balance Scale)
+Link: https://archive.ics.uci.edu/dataset/12/balance+scale
+
+
+10. Taxpayer
+Link: https://raw.githubusercontent.com/dphi-official/Datasets/master/tax_payers/train_set_label.csv
+
+11. Raisin
+Link: https://archive.ics.uci.edu/dataset/850/raisin
+
+
+12. Careval 
+Link: https://archive.ics.uci.edu/dataset/19/car+evaluation
+
+
+13. Cryotherapy
+Link: https://archive.ics.uci.edu/dataset/429/cryotherapy%26
+
+
+14. Glass
+Link: https://archive.ics.uci.edu/dataset/42/glass+identification
+
+
+15. Haberman 
+Link: https://archive.ics.uci.edu/dataset/43/haberman+s+survival
+
+
+16. Immunotherapy
+Link: https://archive.ics.uci.edu/dataset/428/immunotherapy+dataset
+
+
+17. AD-toy2 (Alzheimer's Clinical Data)
+Link: https://www.kaggle.com/datasets/legendahmed/alzheimers-clinical-data
+
